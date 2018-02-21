@@ -1,0 +1,23 @@
+{
+  "name": "hangman-constructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChetanAudipudy/hangman-constructor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChetanAudipudy/hangman-constructor/issues"
+  },
+  "homepage": "https://github.com/ChetanAudipudy/hangman-constructor#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
