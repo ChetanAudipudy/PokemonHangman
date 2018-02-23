@@ -3,6 +3,11 @@ This a command line based hangman game using node and constructors.
 
 Test your pokemon knowledge!
 
+## Usage:
+Run the game using this command in your command line:
+
+    node index.js
+
 ## Packages Used:
 
 [prompt](https://www.npmjs.com/package/prompt) - Prompts for the input.
