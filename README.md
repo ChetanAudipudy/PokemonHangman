@@ -21,9 +21,9 @@ index.js contains the prompt for the user input and the game is run from here.
 
 ## Key features:
 
-*Takes in uppercase letters and converts them to lowercase.
+* Takes in uppercase letters and converts them to lowercase.
 
-*Gives a message if you input a number. You still lose number of chances (pokeballs).
+* Gives a message if you input a number. You still lose number of chances (pokeballs).
 
-*Gives a message if you input more than on character at a time. You still lose chances.
+* Gives a message if you input more than on character at a time. You still lose chances.
 
